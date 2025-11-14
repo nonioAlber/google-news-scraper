@@ -1,0 +1,18 @@
+{
+    "name": "google-news-scraper",
+    "version": "1.0.0",
+    "description": "A tool for scraping Google News articles.",
+    "main": "src/runner.js",
+    "scripts": {
+        "start": "node src/runner.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "MIT"
+}
+
+You can run this code locally by setting up the appropriate files and executing the commands defined in package.json. Simply run npm install to install dependencies and npm start to begin the scraper.
+Let me know if you need any further assistance!
