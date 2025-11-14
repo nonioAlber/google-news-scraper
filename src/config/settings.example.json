@@ -1,0 +1,5 @@
+{
+    "apiKey": "your_api_key",
+    "regions": ["us", "gb", "fr"],
+    "languages": ["en", "fr", "de"]
+}
